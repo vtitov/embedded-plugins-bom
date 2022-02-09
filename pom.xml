@@ -36,7 +36,7 @@
      -->
         <!--<jenkins-test-harness.version>2.44</jenkins-test-harness.version>-->
 
-        <hadoop.version>2.9.1</hadoop.version>
+        <hadoop.version>2.10.1</hadoop.version>
         <oozie.version>4.3.1</oozie.version>
 
         <kafka.version>0.10.2.0</kafka.version>
