@@ -41,7 +41,7 @@
 
         <kafka.version>0.10.2.0</kafka.version>
         <kafka.broker.version>0.10.2.0</kafka.broker.version>
-        <kafka.clients.version>0.10.2.0</kafka.clients.version>
+        <kafka.clients.version>0.10.2.2</kafka.clients.version>
         <kafka.scala.version>2.11</kafka.scala.version>
 
         <lombok.version>1.16.14</lombok.version>
